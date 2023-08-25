@@ -44,8 +44,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # WOW
 
-- ;laskdjf
+- **;laskdjf**
   lksdflkj
-- a;slkdjfkjlsd;f
-- ;lksadf;lkj
+- _a;slkdjfkjlsd;f_
+- ';lksadf;lkj'
 
