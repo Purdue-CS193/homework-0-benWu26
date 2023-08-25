@@ -42,12 +42,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - no professor
 - once a week
 
-# WOW
+# Syntax
 
-- **;laskdjf**
-  lksdflkj
-- _a;slkdjfkjlsd;f_
-- ';lksadf;lkj'
-- [Link](google.com)
+- **BOLD**
+- _Italic_
 
 
