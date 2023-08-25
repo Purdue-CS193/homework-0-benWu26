@@ -38,6 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Ben's First CS193 Homework
 
--no tests
--no professor
--once a week
+- no tests
+- no professor
+- once a week
+
+
+
